@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins','Courier New', 'Courier New', Courier, monospace;
+    /* background-color:  #834da0; */
+    background-color: #6c3c8c;
+    background-color: #6739B7;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #f4e9f8;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
